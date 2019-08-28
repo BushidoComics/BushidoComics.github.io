@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A webcomic theme for jekyll.
 
 
-baseurl: /BushidoComics
+baseurl: https://bushidocomics.github.io/ #BushidoComics
 url: / #Leave this, change the baseurl.
 
 # Exclude our ruby stuff
