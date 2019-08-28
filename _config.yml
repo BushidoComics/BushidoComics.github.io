@@ -9,6 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 
 baseurl: https://bushidocomics.github.io/ #BushidoComics
+production_url: "https://bushidocomics.github.io/"
 url: / #Leave this, change the baseurl.
 
 # Exclude our ruby stuff
@@ -26,7 +27,7 @@ destination: _site
 #    style: :compressed
 
 permalink: /:categories/:title/
-categories: DMZ
+categories: DSZ
 
 #################################################
 ####CUSTOM
